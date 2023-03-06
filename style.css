@@ -1,0 +1,18 @@
+body {
+    font: "Open Sans", "Arial", sans-serif;
+}
+
+.container {
+    /*margin: auto;*/
+    background: rgb(52, 10, 236);
+    height: 800px;
+}
+
+video {
+    margin-top: 2px;
+    border: 1px solid black;
+}
+
+h3 {
+    font-size: 20px;
+}
